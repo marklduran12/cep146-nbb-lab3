@@ -1,0 +1,85 @@
+
+Host Name:                     MARKDURAN
+OS Name:                       Microsoft Windows 11 Home
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              green_vamp@hotmail.com
+Registered Organization:       N/A
+Product ID:                    00342-22606-14786-AAOEM
+Original Install Date:         12/30/2025, 2:45:18 AM
+System Boot Time:              1/23/2026, 4:44:33 PM
+System Manufacturer:           LENOVO
+System Model:                  82XM
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~2000 Mhz
+BIOS Version:                  LENOVO KYCN39WW, 4/17/2025
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:         14,173 MB
+Available Physical Memory:     4,136 MB
+Virtual Memory: Max Size:      34,653 MB
+Virtual Memory: Available:     14,486 MB
+Virtual Memory: In Use:        20,167 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\MARKDURAN
+Hotfix(s):                     7 Hotfix(s) Installed.
+                               [01]: KB5067931
+                               [02]: KB5050575
+                               [03]: KB5054156
+                               [04]: KB5071430
+                               [05]: KB5074109
+                               [06]: KB5078127
+                               [07]: KB5071142
+Network Card(s):               5 NIC(s) Installed.
+                               [01]: MediaTek Wi-Fi 6 MT7920 Wireless LAN Card
+                                     Connection Name: Wi-Fi
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     10.101.20.20
+                                     IP address(es)
+                                     [01]: 10.248.41.153
+                                     [02]: fe80::6b95:7c62:147:df38
+                               [02]: Bluetooth Device (Personal Area Network)
+                                     Connection Name: Bluetooth Network Connection
+                                     Status:          Media disconnected
+                               [03]: TAP-Windows Adapter V9
+                                     Connection Name: McAfee VPN
+                                     Status:          Media disconnected
+                               [04]: VMware Virtual Ethernet Adapter for VMnet1
+                                     Connection Name: VMware Network Adapter VMnet1
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.64.1
+                                     [02]: fe80::7a44:822:bc1f:b151
+                               [05]: VMware Virtual Ethernet Adapter for VMnet8
+                                     Connection Name: VMware Network Adapter VMnet8
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.44.1
+                                     [02]: fe80::680e:e4a8:74cf:3ece
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                                     Base Virtualization Support
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     SMM Security Mitigations 1.0
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Enforced
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
+green
